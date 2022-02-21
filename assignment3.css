@@ -1,0 +1,355 @@
+#st1{
+    background-image: url(./4hh.jpg);
+    width: 100%;
+    height: 600px;
+}
+.c1{
+    display: flex;
+}
+.c1 h1{
+    width: 40%;
+    padding-left: 200px;
+    color: white;
+}
+.c2{
+    width: 50%;
+    margin-top: 22px;
+    
+}
+.c2 a{
+    margin: 14px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.c2 a:hover{
+    color: rgb(235, 76, 76);
+}
+.c2 a:active{
+    color: forestgreen;
+}
+.c3{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 45%;
+    margin: 8% auto;
+}
+.c3 h1{
+    margin-right: 250px;
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 4px;
+}
+.c3 button{
+    padding: 15px 30px;
+    letter-spacing: 1px;
+    border-radius: 25px;
+    outline: none;
+    border: 2px solid rgb(199, 192, 192);
+    background-color: transparent;
+    color: white;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.c3 p{
+    letter-spacing: 1px;
+}
+.c3 button:hover{
+    color: rgb(189, 117, 65);
+    border-color: brown;
+}
+.c3 button:active{
+    color: rgb(20, 155, 20);
+    border-color: rgb(34, 77, 9);
+}
+.c3 h3{
+    margin: 10% auto;
+    border: 1px solid white;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    padding-top: 30px;
+}
+#st2{
+    display: flex;
+    justify-content: center;
+    margin-left:100px;
+    margin-top: 80px;
+}
+.c9{
+    width: 100%;
+    
+}
+.c10{
+    width: 60%;
+    margin: 0% auto;
+}
+.c10 p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    /* position: relative;
+    bottom: 30px; */
+    
+}
+.c10 img{
+    margin-left: 20px;
+    border-radius: 45%;
+}
+.c11{
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.c12{
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c12 span{
+    color: rgb(201, 97, 183);
+}
+
+#st3{
+    background-color: rgb(249, 249, 249);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    margin-top: 100px;
+}
+.c14{
+    text-align: center;
+    font-size: 20px;
+}
+.c15{
+    width: 50%;
+    text-align: center;
+    font-size: 16px;
+    /* position: relative;
+    left: 330px; */
+    margin: 3% auto;
+}
+.c16{
+    width: 95%;
+    display: flex;
+    text-align: center;
+
+}
+.c16 div{
+    border: 1px solid gray;
+    margin-left: 60px;
+    font-size:15px;
+    padding: 10px;
+}
+.c17{
+    width: 95%;
+    display: flex;
+    text-align: center;
+
+}
+.c17 div{
+    border: 1px solid gray;
+    margin-left: 60px;
+    margin-top: 60px;
+    font-size:15px;
+    padding: 10px;
+}
+#st4 h3{
+    text-align: center;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 80px;
+}
+.cd16{
+    /* position: relative;
+    left: 615px; */
+    /* top: 30px; */
+    margin-left: 600px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(180, 67, 86);
+    color: white;
+    border: 1px solid rgb(249, 249, 249);
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.cd16:hover{
+    color: rgb(18, 18, 46);
+    border-radius: 8px;
+}
+.cd16:active{
+    color: darkgreen;
+}
+.cd17{
+    background-color:  rgb(249, 249, 249);
+    text-align: center;
+    margin-top: 90px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+.cd17 h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cd17 p{
+    width: 50%;
+    /* position: relative;
+    left: 350px; */
+    margin: 2% auto;
+}
+.cd17 img{
+    border-radius: 70%;
+    margin-top: 40px;
+}
+.cd17 h4{
+    /* font-size: 20px; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.c18{
+    text-align: center;
+}
+.c18 button{
+    margin-top: 80px;
+    margin-left: 25px;
+    background-color: white;
+    border: 2px solid white;
+    font-size: 15px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.c18 button:hover{
+    color: white;
+    background-color: rgb(180, 67, 86);
+    border-radius: 30px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.c19{
+    text-align: center;
+}
+.c19 img{
+    margin:20px;
+}
+#st5{
+    margin-top: 50px;
+    padding-top: 30px;
+    background-color: rgb(249, 249, 249);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.c20{
+   
+    text-align: center;
+   
+}
+.c20 p{
+    width: 50%;
+    /* position: relative;
+    left: 340px; */
+    margin: 0% auto;
+}
+.c21{
+    width: 80%;
+    margin-left: 50px;
+    display: flex;
+}
+.c21 span{
+    /* border: 1px solid gray; */
+    margin: 50px;
+    background-color: white;
+}
+.c21 p{
+    position: relative;
+    left: 10px;
+}
+.c21 h3{
+    font-size: 19px;
+    position: relative;
+    left: 10px;
+}
+.c22 span{
+    color: rgb(197, 0, 115);
+    position: relative;
+    right: 45px;
+}
+.c23 span{
+    color: rgb(197, 0, 115);
+    position: relative;
+    right: 45px;
+}
+.c24 span{
+    color: rgb(197, 0, 115);
+    position: relative;
+    right: 45px;
+}
+#st6{
+    text-align: center;
+}
+.c25{
+    width: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* position: relative;
+    left: 300px; */
+    margin: 0% auto;
+}
+.c26{
+    display: flex;
+    margin-left: 200px;
+}
+.c26 div{
+    margin-left: 100px;
+    /* position: relative;
+    left: 200px; */
+
+}
+.c27 input{
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 26px;
+}
+.c27 .c28{
+    padding-right: 300px;
+}
+.c27 .c29{
+    padding-right: 320px;
+}
+.c27 .c30{
+    padding-right: 836px;
+}
+.c27 textarea{
+    margin-left: 28px;
+    margin-top: 30px;
+}
+#st6 button{
+   padding: 10px 20px;
+   margin-right: 140px;
+   margin-top: 10px;
+    background-color: rgb(180, 67, 86);
+    color: rgb(255, 255, 255);
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    float: right;
+}
+#st6 button:hover{
+    color: aqua;
+    border-radius: 15px;
+}
+#st6 button:active{
+    border-radius: 20px;
+    color: chartreuse;
+
+}
+.c31{
+    background-color: rgb(31, 31, 31);
+    margin-top: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c31 img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
